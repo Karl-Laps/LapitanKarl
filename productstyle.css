@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: burlywood;
+}
+body{
+    text-align: center;
+    color: black;
+    font-family: tahoma;
+   
+    
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
